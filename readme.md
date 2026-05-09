@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Structure-Industry%20Standard-5865F2?style=for-the-badge&logo=blueprint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Model-4%20Roles%20Per%20Team-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team%20Model-5%20Roles%20Per%20Team-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Innovation%20%26%20Engineering-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Standard-Clean%20Code%20%7C%20High%20Performance-EF4444?style=for-the-badge" />
 </p>
@@ -23,16 +23,16 @@ Our model is built on **intentional team architecture**, **modern technology sta
 
 ## 〉Team Architecture
 
-Each team operates with four clearly defined roles, ensuring full-spectrum coverage across technical execution, design thinking, strategic direction, and team cohesion.
+Each team operates with five clearly defined roles that mirror industry engineering structures — ensuring full-spectrum coverage from system design to delivery quality.
 
-|    Role     | Symbol | Responsibility                                                                                                                                                 |
-| :---------: | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hacker**  |  `⚙️`  | The technical core. Responsible for system architecture, backend infrastructure, and engineering decisions. Writes clean, performant, scalable code.           |
-| **Hipster** |  `🎨`  | The design intelligence. Owns user experience, interface design, and the visual identity of the product. Bridges empathy and aesthetics with functionality.    |
-| **Hustler** |  `🧭`  | The strategic driver. Defines scope, manages delivery timelines, aligns team direction, and ensures the product solves a real problem worth solving.           |
-| **Helper**  |  `🔗`  | The integration layer. Supports cross-functional alignment, documents processes, and ensures nothing falls through the cracks — operationally and technically. |
+|         Role          | Symbol | Responsibility                                                                                                                                                    |
+| :-------------------: | :----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Backend Engineer**  |  `⚙️`  | Owns server-side architecture, API design, database modeling, and system performance. Responsible for the reliability and scalability of the core infrastructure. |
+| **Frontend Engineer** |  `🖥️`  | Implements the client-facing application layer. Translates design specifications into precise, accessible, and performant user interfaces.                        |
+|  **UI/UX Designer**   |  `🎨`  | Defines the product's visual language and interaction model. Conducts user research, produces design systems, and ensures every flow is intentional and coherent. |
+| **Quality Assurance** |  `🔍`  | Owns test coverage, regression planning, and release readiness. The final checkpoint between development and delivery — nothing ships without their sign-off.     |
 
-> This structure is not a hierarchy — it is a **balanced system**. Each role is indispensable.
+> This structure is not a hierarchy — it is a **balanced system**. Every role is a critical dependency for the others.
 
 ---
 
@@ -93,7 +93,7 @@ We write code that **endures, scales, and communicates intent**.
 
 Membership and contribution to Informatic Club projects follows a structured onboarding process:
 
-1. **Role Assessment** — Identify your primary role
+1. **Role Assessment** — Identify your primary role (Backend Engineer / Frontend Engineer / UI/UX Designer / Quality Assurance).
 2. **Team Placement** — Join an active cohort based on skills and project fit.
 3. **Standards Alignment** — Complete our internal code standards and workflow briefing.
 4. **First Contribution** — Claim a scoped issue, open a branch, and submit a reviewed PR.
